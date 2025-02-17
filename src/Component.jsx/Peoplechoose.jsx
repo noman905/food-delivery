@@ -3,7 +3,7 @@ import {Choosecard} from "./Choosecard";
 
 const peoplechoosearray=[
     {
-     link:"./choose/choosequality.jpg",
+     link:"./choose/choosequality.avif",
      reason:"Get your food delivered quickly and on time, every time!  ",
      ready:"Ready to Order",
      bigreason:" Qulaity Food"
@@ -11,21 +11,21 @@ const peoplechoosearray=[
  
     },
     {
-     link:"./choose/deliverychoose.jpg",
+     link:"./choose/deliverychoose.avif",
      reason:"Enjoy a seamless, ordering experience with  delivery.",
      ready:"Ready to Order",
       bigreason:"Fast Delivery"
  
     }
     ,  {
-     link:"./choose/cashchoose.jpg",
+     link:"./choose/cashchoose.avif",
      reason:" Enjoy convenience of paying cash when order arrives.",
      ready:"Ready to Order",
       bigreason:"Cash Payment"
  
     }
     ,  {
-     link:"./choose/choosediscount.jpg",
+     link:"./choose/choosediscount.avif",
      reason:"Take advantage of our amazing discounts to enjoy your meals .",
      ready:"Ready to Order",
       bigreason:"High Discounts"

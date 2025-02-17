@@ -13,7 +13,7 @@ export const About = () => {
         {/* Image Section */}
         <div className="group flex justify-center md:justify-start">
           <img
-            src="./about/aboutimage.jpg"
+            src="./about/aboutimage.webp"
             alt="about"
             className="rounded-[300px] w-[80vw] sm:w-[60vw] md:w-[40vw] lg:w-[30vw]"
           />

@@ -1,6 +1,6 @@
 export const breakfastarray=[
     {
-     link:"./breakfast/breakfast1.jpg",
+     link:"./breakfast/breakfast1.webp",
      name:"Breakfast",
      category:"French Food",
      
@@ -13,7 +13,7 @@ export const breakfastarray=[
  
     }
     ,  {
-     link:"./breakfast/breakfast3.jpg",
+     link:"./breakfast/breakfast3.webp",
      name:"Breakfast",
      category:"German Food"
  
