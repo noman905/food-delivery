@@ -40,7 +40,7 @@ const Categrorie=[
 export const Categories = () => {
    return(
 <>
-   <section className="w-[91%] m-8 flex flex-col gap-6">
+   <section className="w-[91%] m-auto mt-9 flex flex-col gap-6">
    <div>
        <h1 className="text-3xl font-bold">Category</h1>
 

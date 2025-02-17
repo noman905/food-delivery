@@ -43,7 +43,7 @@ return(
 
 <>
 <section className="m-2 ">
-    <h1 className="text-4xl font-semibold m-auto mb-9 flex justify-center items-center ">Why People Choose Us</h1>
+    <h1 className="text-4xl font-semibold p-4 text-center leading-normal m-auto mb-9 flex justify-center items-center ">Why People Choose Us</h1>
 
    <ul className="flex flex-wrap  m-2 sm:p-1  gap-2 w-[95%] justify-center items-center ">
 

@@ -10,7 +10,7 @@ export const Dessert=(()=>{
 <section className="m-8">
     <h1 className="text-4xl font-semibold m-auto flex justify-center items-center ">Dessert All Items</h1>
 
-   <ul className="flex flex-wrap  m-6 p-5 gap-8 w-[95%] justify-center items-center ">
+   <ul className="flex flex-wrap  m-auto p-5 gap-8 w-[95%] justify-center items-center ">
 
  {dessertarray.map((current,ind)=>{
 
